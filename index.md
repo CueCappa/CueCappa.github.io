@@ -4,19 +4,19 @@
 
 ### Personal Projects 
 
-[The Pirate Adventure](/sample_page)
+[The Pirate Adventure](https://uncommonsensegames.itch.io/pirate-adventure)
 <img src="images/PiratesMainMenu.jpg?raw=true"/>
 
 ---
-[Forsaken Wanderer](/pdf/sample_presentation.pdf)
+[Forsaken Wanderer](https://uncommonsensegames.itch.io/forsaken-wanderer)
 <img src="images/FWMenu.jpg?raw=true"/>
 
 ---
 
 ### Project Links
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [The Pirate Adventure](https://uncommonsensegames.itch.io/pirate-adventure)
+- [Forsaken Wanderer](https://uncommonsensegames.itch.io/forsaken-wanderer)
 
 ---
 
